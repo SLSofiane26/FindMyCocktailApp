@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "application-cocktail-2020",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
